@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "20261122T124008Z--owner-directed-cyber-ai-team-roadmap",
+  "recorded_at": "2026-11-22T12:40:08.546Z",
+  "actor": "OpenSiro project owner (explicit current-chat single-harness roadmap instruction)",
+  "kind": "DECISION",
+  "decision": "single-harness internal roadmap selection; ATTENTION=ACTIVE; OWNER_CONTROL=ALLOW",
+  "evidence_urls": [
+    "https://github.com/opensiro/upstream/issues/58",
+    "https://github.com/opensiro/upstream/issues/58#issuecomment-7079168486",
+    "https://github.com/opensiro/upstream/issues/58#issuecomment-7079216992"
+  ],
+  "note": "Current chat instructs one source-first Upstream Roadmap harness. Cyber AI Team is outside the initial 23 #58 cohort; this grant applies only to internal research and fork metadata, not the initial cohort's historical activation. Separate exact prior approval is required for a public fork Issue or any original Issue/PR/comment. Historic Index grades unchanged and native tests not run.",
+  "next_action": "Store and independently read back source-pinned four-file canonical Human/AI/receipt and validate both scripts; complete status under Upstream #58. No report-only PR."
+}
